@@ -1,0 +1,38 @@
+Projeto Loja de “Artigos luxuosos”
+
+
+Resumo
+
+	Eu quero tentar imitar o estilo de site parecido com lojas de grife ou produtos “exclusivos” com o foco em vender 1 ou 2 produtos mas de forma que o usuário se empolgue com os aspectos visuais do site para poder comprar a pouca variedade de produtos.
+
+
+Requisitos funcionais e não funcionais
+
+
+	Requisitos Funcionais
+
+Cadastro de Usuário:
+O sistema deve permitir que novos usuários se cadastrem com nome, e-mail e senha.
+O sistema deve enviar um e-mail de confirmação após o cadastro.
+Login e Autenticação:
+O usuário deve poder fazer login usando e-mail e senha.
+O sistema deve permitir a recuperação de senha via e-mail.
+Catálogo de Produtos:
+O sistema deve exibir uma lista de produtos com nome, descrição, preço e imagem.
+O usuário deve poder filtrar produtos por categoria, preço e avaliação.
+Carrinho de Compras:
+O usuário deve poder adicionar e remover produtos do carrinho.
+O sistema deve calcular o total do carrinho automaticamente.
+Outros que não sei (Pode mudar ou adicionar)
+
+
+Requisitos Não Funcionais
+Desempenho:
+O tempo de resposta para carregar a página inicial deve ser inferior a 3 segundos.
+O sistema deve suportar até 10.000 usuários simultâneos sem degradação de desempenho.
+Usabilidade:
+A interface do usuário deve ser intuitiva e fácil de navegar.
+O sistema deve ser acessível em dispositivos móveis e desktops.
+Compatibilidade:
+O sistema deve ser compatível com os navegadores Chrome, Firefox, Safari e Edge.
+O sistema deve funcionar em dispositivos com sistemas operacionais iOS e Android.
